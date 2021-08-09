@@ -2,17 +2,10 @@
 
 Wallpaper app developed in flutter using pexels API.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# pixify
-# Pixify
+![image1 2](https://user-images.githubusercontent.com/88532016/128667026-f72b01f1-aed2-454e-87d8-8d19b6861acf.jpeg)
+![image1 3](https://user-images.githubusercontent.com/88532016/128667047-202cd8e9-e9eb-4626-a0a5-de09022436de.jpeg)
+![image2](https://user-images.githubusercontent.com/88532016/128667083-86427eb9-386e-4783-9002-1bc528dfcd7a.jpeg)
+![image3](https://user-images.githubusercontent.com/88532016/128667128-1abb5acb-b9af-4a5f-a07c-c55ad0fd1218.jpeg)
+![image4](https://user-images.githubusercontent.com/88532016/128667137-602cd45d-f289-4268-ae2d-ebab8c7baae9.jpeg)
+![image5](https://user-images.githubusercontent.com/88532016/128667153-9709eb86-091b-4dd0-8234-69074d0a89ef.jpeg)
+![P](https://user-images.githubusercontent.com/88532016/128667172-3aa87b8f-f465-48ef-a4af-a8e7d0cf849b.png)
